@@ -1,0 +1,1 @@
+docker run -v /:/tmp -i -t bash bash
